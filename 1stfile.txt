@@ -1,0 +1,23 @@
+sikas-MBP-4:~ rashmitabaral$ git clone https://github.com/Rashmitabaral/Class2024file2.git
+
+What this command will do basically git clone , cloning mean you are cloning that repository on your local
+.er 
+What ever in folder class2024fil2 github , that is clone our local system
+
+we r bringing that folder to our local system
+
+Jessikas-MBP-4:~ rashmitabaral$ cd Class2024file2
+
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ ls
+README.md
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ 
+
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ vi Demo2.py>>>> created this file
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ ls
+Demo2.py	README.md
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ 
+
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ ls
+Demo2.py	README.md
+Jessikas-MBP-4:Class2024file2 rashmitabaral$ 
+
